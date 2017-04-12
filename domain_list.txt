@@ -15,6 +15,10 @@ owasp.org
 blog.cobaltstrike.com
 offensive-security.com
 darkoperator.com
+blog.gentilkiwi.com
+mainframed767.tumblr.com
+blog.rootshell.be
+www.corelan.be
 blog.sergeybelove.ru
 deadcode.me
 foxglovesecurity.com
@@ -42,3 +46,6 @@ enigma0x3.net
 blog.techorganic.com
 websec.wordpress.com
 pentestlab.blog
+www.securityfocus.com
+korelogic.com
+hashkiller.co.uk
