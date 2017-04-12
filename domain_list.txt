@@ -11,6 +11,10 @@ phrack.org
 www.blackhat.com
 defcon.org
 dc24bc.wikia.com
+owasp.org
+blog.cobaltstrike.com
+offensive-security.com
+darkoperator.com
 blog.sergeybelove.ru
 deadcode.me
 foxglovesecurity.com
