@@ -8,6 +8,9 @@ blog.netspi.com
 digi.ninja
 phrack.org
 2600.com
+www.blackhat.com
+defcon.org
+dc24bc.wikia.com
 blog.sergeybelove.ru
 deadcode.me
 foxglovesecurity.com
