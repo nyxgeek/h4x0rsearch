@@ -22,6 +22,7 @@ exploit.co.il
 feross.org
 foofus.net
 foxglovesecurity.com
+fozavci.blogspot.com
 hashcat.net
 hashkiller.co.uk
 highon.coffee
