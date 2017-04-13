@@ -10,6 +10,7 @@ blog.packetheader.net
 blog.rootshell.be
 blog.sergeybelove.ru
 blog.techorganic.com
+danielmiessler.com
 darkoperator.com
 dc24bc.wikia.com
 deadcode.me
@@ -48,6 +49,7 @@ www.harmj0y.net
 www.mdsec.co.uk
 www.peerlyst.com
 www.pwnag3.com
+www.rebootuser.com
 www.securityfocus.com
 www.trustwave.com
 xpnsec.tumblr.com
