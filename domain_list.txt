@@ -31,6 +31,7 @@ kitsune.online
 korelogic.com
 labs.portcullis.co.uk
 mainframed767.tumblr.com
+netsec.ws
 n0where.net
 obscuresecurity.blogspot.com
 offensive-security.com
