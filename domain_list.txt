@@ -1,6 +1,7 @@
 trustedsec.com
 irongeek.com
 2600.com
+attackresearch.com
 bernardodamele.blogspot.com
 blackhillsinfosec.com
 blog.cobaltstrike.com
@@ -11,6 +12,7 @@ blog.packetheader.net
 blog.rootshell.be
 blog.sergeybelove.ru
 blog.techorganic.com
+christophertruncer.com
 danielmiessler.com
 darkoperator.com
 dc24bc.wikia.com
@@ -42,6 +44,7 @@ packetstormsecurity.com
 pentestlab.blog
 pentestmonkey.net
 phrack.org
+rewtin.blogspot.ch
 room362.com
 subt0x10.blogspot.com
 theevilbit.blogspot.com
